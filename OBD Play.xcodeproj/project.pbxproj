@@ -52,6 +52,7 @@
 		56905E6F29B7818A007865E8 /* Charging Detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Charging Detail.png"; sourceTree = "<group>"; };
 		56905E7029B7818A007865E8 /* Trip Detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Trip Detail.png"; sourceTree = "<group>"; };
 		56905E7129B7818A007865E8 /* Trip Efficiencies.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Trip Efficiencies.png"; sourceTree = "<group>"; };
+		56905E7229B7A90E007865E8 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Settings.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +148,7 @@
 				56905E6F29B7818A007865E8 /* Charging Detail.png */,
 				56905E7029B7818A007865E8 /* Trip Detail.png */,
 				56905E7129B7818A007865E8 /* Trip Efficiencies.png */,
+				56905E7229B7A90E007865E8 /* Settings.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
