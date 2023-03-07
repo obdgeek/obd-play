@@ -2,8 +2,6 @@
 //  ContentView.swift
 //  OBD Play
 //
-//  Created by Rick Naro on 3/7/23.
-//
 
 import SwiftUI
 

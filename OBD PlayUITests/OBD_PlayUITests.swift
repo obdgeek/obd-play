@@ -2,8 +2,6 @@
 //  OBD_PlayUITests.swift
 //  OBD PlayUITests
 //
-//  Created by Rick Naro on 3/7/23.
-//
 
 import XCTest
 
