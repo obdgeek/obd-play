@@ -35,11 +35,14 @@ OBD Play may use your Vehicle Identification Number (VIN) to access your vehicle
 
 <a id='trips'></a>
 ## Trips
-The Trips tab displays a list of the trips made in a selected time period along with a summary of the distance and evergy used durin this period.
+The Trips tab displays a list of the trips made in a selected time period along with a summary of the distance, evergy used, and efficiency during this period.
 
 ![Trips](https://github.com/sillygoose/obd-play/blob/images/images/Trips.png)
 
-A trip records the vehicle dsta from the shift selector leaving the Park position until it returns back to Park and the detailed trip view displays a map of the roure taken, the elevation profile of the trip, and interesting details of the trip.
+A trip records vehicle dsta from the shift selector leaving the Park position until it returns back to Park and the detailed trip view displays:
+- map of the roure taken
+- elevation profile of the trip
+- interesting details of the trip
 
 ![Trip Detail](https://github.com/sillygoose/obd-play/blob/images/images/Trip%20Detail.png)
 
@@ -49,20 +52,19 @@ The Charges tab displays a list of charges in the selected period along with the
 ![Charges](https://github.com/sillygoose/obd-play/blob/images/images/Charges.png)
 
 You can select a charge from the list and see the details of the charge with information from:
-- charger data
-- environmental data
-- energy use
-- high-voltage battery data
+- charger input power
+- outdoor and high-volatge battery temperatures
+- energy used and delivered to the high-voltge battery
+- high-voltage battery State of Health (SOH)
 
-![Charge Detail](https://github.com/sillygoose/obd-play/blob/images/images/Charge%20Detail.png)
+![Charge Detail](https://github.com/sillygoose/obd-play/blob/images/images/Charging%20Detail.png)
 
 <a id='settings'></a>
 ## Settings
 The Settings tab manages the selection of vehicles, data sources, and other useful features including:
 - save/restore settings
 - manage data sources
-- manage vehicles
-- manage locations
-
+- manage vehicles (you have multiple vehicles in a data source and switch bewteen them)
+- manage location data
 
 ![Settings](https://github.com/sillygoose/obd-play/blob/images/images/Settings.png)
