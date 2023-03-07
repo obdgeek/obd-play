@@ -8,3 +8,4 @@ OBD Play does not collect or share any personal information or data.
 
 OBD Play may use your Vehicle Identification Number (VIN) to access your vehicle trip and charging data in a database created and controlled by you.
 
+![Trips](https://github.com/sillygoose/obd-play/blob/images/images/Trips.png)
