@@ -2,7 +2,7 @@
 
 <a id='overview'></a>
 ## Overview
-**OBD Play** is a SwiftUI iPhone application for viewing Ford Mustang Mach-E trip and charge data recorded with the companion OBD Record application.
+**OBD Play** is a iPhone application for viewing Ford Mustang Mach-E trip and charge data recorded with the companion OBD Record application.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,7 @@
 
 <a id='whats-new'></a>
 ## What's new
-- Everything is new at this point, just explore the data and let us know of any problems.
+- Everything is new at this point, just explore and let us know of any problems or share your feedback.
 
 <a id='requirements'></a>
 ## Requirements
@@ -25,7 +25,7 @@
 
 <a id='installation'></a>
 ## Installation
-The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or a shared download link you can access OBD Play from the TestFlight app.
+The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can access OBD Play from the TestFlight app.
 
 <a id='privacy'></a>
 ## Privacy Notice
@@ -40,11 +40,16 @@ The Trips tab displays a list of the trips made in a selected time period along 
 ![Trips](https://github.com/sillygoose/obd-play/blob/images/images/Trips.png)
 
 A trip records vehicle dsta from the shift selector leaving the Park position until it returns back to Park and the detailed trip view displays:
-- map of the roure taken
-- elevation profile of the trip
-- interesting details of the trip
+- map of the route
+- elevation profile
+- start and end points with the ability to add point of interest (POI) details
+- energy use and efficiency
+- speed and position data
+- high-voltage battery data
 
 ![Trip Detail](https://github.com/sillygoose/obd-play/blob/images/images/Trip%20Detail.png)
+
+The Trips spotlight includes graphs of efficiency/temperature, monthly efficiency, and more.
 
 <a id='charges'></a>
 ## Charges
@@ -52,12 +57,13 @@ The Charges tab displays a list of charges in the selected period along with the
 ![Charges](https://github.com/sillygoose/obd-play/blob/images/images/Charges.png)
 
 You can select a charge from the list and see the details of the charge with information from:
-- charger input power
-- outdoor and high-volatge battery temperatures
-- energy used and delivered to the high-voltge battery
-- high-voltage battery State of Health (SOH)
+- location, duration, and charger type
+- power and energy data
+- high-volatge battery details including the State pf Charge (SoC) and State of Health (Soh)
 
 ![Charge Detail](https://github.com/sillygoose/obd-play/blob/images/images/Charging%20Detail.png)
+
+The Charging spotlight includes graphs of energy use and the battery SoH over different time periods.
 
 <a id='settings'></a>
 ## Settings
