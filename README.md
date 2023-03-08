@@ -37,8 +37,6 @@ OBD Play may use your Vehicle Identification Number (VIN) to access your vehicle
 ## Trips
 The Trips tab displays a list of the trips made in a selected time period along with a summary of the distance, evergy used, and efficiency during this period.
 
-![Trips](https://github.com/sillygoose/obd-play/blob/images/images/Trips.png)
-
 A trip records vehicle dsta from the shift selector leaving the Park position until it returns back to Park and the detailed trip view displays:
 - map of the route
 - elevation profile
@@ -47,21 +45,20 @@ A trip records vehicle dsta from the shift selector leaving the Park position un
 - speed and position data
 - high-voltage battery data
 
-![Trip Detail](https://github.com/sillygoose/obd-play/blob/images/images/Trip%20Detail.png)
+![Trips](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Trips.png)
 
-The Trips spotlight includes graphs of efficiency/temperature, monthly efficiency, and more.
+The Trips spotlight includes graphs of efficiency/temperature, monthly efficiency, and more over all your trips.
 
 <a id='charges'></a>
 ## Charges
 The Charges tab displays a list of charges in the selected period along with the energy pulled from the charger and the energy deliverd to the high-voltage battery.
-![Charges](https://github.com/sillygoose/obd-play/blob/images/images/Charges.png)
 
 You can select a charge from the list and see the details of the charge with information from:
 - location, duration, and charger type
 - power and energy data
 - high-volatge battery details including the State pf Charge (SoC) and State of Health (Soh)
 
-![Charge Detail](https://github.com/sillygoose/obd-play/blob/images/images/Charging%20Detail.png)
+![Charges](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Charges.png)
 
 The Charging spotlight includes graphs of energy use and the battery SoH over different time periods.
 
@@ -73,4 +70,4 @@ The Settings tab manages the selection of vehicles, data sources, and other usef
 - manage vehicles (you have multiple vehicles in a data source and switch bewteen them)
 - manage location data
 
-![Settings](https://github.com/sillygoose/obd-play/blob/images/images/Settings.png)
+![Settings](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png)

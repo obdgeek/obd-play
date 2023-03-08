@@ -46,13 +46,9 @@
 		56905E5C29B78114007865E8 /* OBD_PlayUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OBD_PlayUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		56905E6929B7818A007865E8 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		56905E6A29B7818A007865E8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		56905E6C29B7818A007865E8 /* Trips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Trips.png; sourceTree = "<group>"; };
-		56905E6D29B7818A007865E8 /* Charging Energy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Charging Energy.png"; sourceTree = "<group>"; };
-		56905E6E29B7818A007865E8 /* Charges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Charges.png; sourceTree = "<group>"; };
-		56905E6F29B7818A007865E8 /* Charging Detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Charging Detail.png"; sourceTree = "<group>"; };
-		56905E7029B7818A007865E8 /* Trip Detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Trip Detail.png"; sourceTree = "<group>"; };
-		56905E7129B7818A007865E8 /* Trip Efficiencies.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Trip Efficiencies.png"; sourceTree = "<group>"; };
-		56905E7229B7A90E007865E8 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Settings.png; sourceTree = "<group>"; };
+		56905E7329B820A9007865E8 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Settings.png; sourceTree = "<group>"; };
+		56905E7429B820A9007865E8 /* Charges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Charges.png; sourceTree = "<group>"; };
+		56905E7529B820A9007865E8 /* Trips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Trips.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,13 +138,9 @@
 		56905E6B29B7818A007865E8 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				56905E6C29B7818A007865E8 /* Trips.png */,
-				56905E6D29B7818A007865E8 /* Charging Energy.png */,
-				56905E6E29B7818A007865E8 /* Charges.png */,
-				56905E6F29B7818A007865E8 /* Charging Detail.png */,
-				56905E7029B7818A007865E8 /* Trip Detail.png */,
-				56905E7129B7818A007865E8 /* Trip Efficiencies.png */,
-				56905E7229B7A90E007865E8 /* Settings.png */,
+				56905E7529B820A9007865E8 /* Trips.png */,
+				56905E7429B820A9007865E8 /* Charges.png */,
+				56905E7329B820A9007865E8 /* Settings.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
