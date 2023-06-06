@@ -47,7 +47,7 @@ A trip records vehicle dsta from the shift selector leaving the Park position un
 - speed and position data
 - high voltage battery data
 
-![Trips](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Trips.png)
+<img width="800" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Trips.png">
 
 The Trips spotlight includes graphs of efficiency/temperature, monthly efficiency, and more over all your trips.  The detailed trip spotlight displays insights into the data for a particular trip.
 
@@ -60,7 +60,7 @@ You can select a charge from the Charges list and see the details of the charge 
 - power and energy data
 - high voltage battery details including the State pf Charge (SoC) and State of Health (SoH)
 
-![Charges](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Charges.png)
+<img width="800" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Charges.png">
 
 The Charging spotlight includes graphs of energy use and the battery SoH. Each detailed charge spotlight displays graphical insights for a particular charging session.
 
@@ -74,4 +74,4 @@ The Settings tab manages the selection of vehicles, data stores, and other usefu
 - get help for various OBD Play features
 - get OBD Play version and other application information
 
-<img width="300" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png">
+<img width="400" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png">
