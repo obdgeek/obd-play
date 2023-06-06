@@ -1,4 +1,4 @@
-#  OBD Play
+# OBD Play
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,7 +12,7 @@
 
 <a id='overview'></a>
 ## Overview
-**OBD Play** is a iPhone application for viewing Ford Mustang Mach-E trips and charge sessions recorded by the companion OBD Record application.
+**OBD Play** is a iPhone application for viewing Ford Mustang Mach-E trips and charge sessions recorded by the companion **OBD Record** application.
 
 <a id='whats-new'></a>
 ## What's new
@@ -27,13 +27,13 @@
 
 <a id='installation'></a>
 ## Installation
-The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can install OBD Play from the TestFlight app and share crash reports and screenshots to help improve the aoftware.
+The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can install **OBD Play** from the TestFlight app and share crash reports and screenshots to help improve the aoftware.
 
 <a id='privacy'></a>
 ## Privacy Notice
-OBD Play does not collect or share any personal information or data.
+**OBD Play** does not collect or share any personal information or data.
 
-OBD Play uses your Vehicle Identification Number (VIN) to access your vehicle trip and charging data in a data store created and controlled by you and is not shared outside the application.
+**OBD Play** uses your Vehicle Identification Number (VIN) to access your vehicle trip and charging data in a data store created and controlled by you and is not shared outside the application.
 
 <a id='trips'></a>
 ## Trips
@@ -71,7 +71,7 @@ The Settings tab manages the selection of vehicles, data stores, and other usefu
 - manage data stores
 - manage vehicles
 - manage location data
-- get help for various OBD Play features
-- get OBD Play version and other application information
+- get help for various **OBD Play** features
+- get **OBD Play** version and other application information
 
 <img width="400" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png">
