@@ -1,9 +1,5 @@
 #  OBD Play
 
-<a id='overview'></a>
-## Overview
-**OBD Play** is a iPhone application for viewing Ford Mustang Mach-E trip and charge data recorded with the companion OBD Record application.
-
 ## Table of Contents
 - [Overview](#overview)
 - [What's new](#whats-new)
@@ -14,24 +10,30 @@
 - [Charges](#charges)
 - [Settings](#settings)
 
+<a id='overview'></a>
+## Overview
+**OBD Play** is a iPhone application for viewing Ford Mustang Mach-E trips and charge sessions recorded by the companion OBD Record application.
+
 <a id='whats-new'></a>
 ## What's new
+- Build 0.71.9 adds trip and charge spotlights for viewing selected details of a trip or charge session.
+
 - Everything is new at this point, just explore and let us know of any problems or share your feedback.
 
 <a id='requirements'></a>
 ## Requirements
 - Apple iPhone running iOS 16.2 or later
-- InfluxDB data source to supply vehicle data (a sample data source is proviced for testing or you can create your own at [Influx Cloud](https://cloud2.influxdata.com/signup))
+- InfluxDB data store to supply vehicle data (you can create your own at [Influx Cloud](https://cloud2.influxdata.com/signup))
 
 <a id='installation'></a>
 ## Installation
-The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can access OBD Play from the TestFlight app.
+The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can install OBD Play from the TestFlight app and share crash reports and screenshots to help improve the aoftware.
 
 <a id='privacy'></a>
 ## Privacy Notice
 OBD Play does not collect or share any personal information or data.
 
-OBD Play may use your Vehicle Identification Number (VIN) to access your vehicle trip and charging data in a database created and controlled by you.
+OBD Play uses your Vehicle Identification Number (VIN) to access your vehicle trip and charging data in a data store created and controlled by you and is not shared outside the application.
 
 <a id='trips'></a>
 ## Trips
@@ -43,31 +45,33 @@ A trip records vehicle dsta from the shift selector leaving the Park position un
 - start and end points with the ability to add point of interest (POI) details
 - energy use and efficiency
 - speed and position data
-- high-voltage battery data
+- high voltage battery data
 
 ![Trips](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Trips.png)
 
-The Trips spotlight includes graphs of efficiency/temperature, monthly efficiency, and more over all your trips.
+The Trips spotlight includes graphs of efficiency/temperature, monthly efficiency, and more over all your trips.  The detailed trip spotlight displays insights into the data for a particular trip.
 
 <a id='charges'></a>
 ## Charges
-The Charges tab displays a list of charges in the selected period along with the energy pulled from the charger and the energy deliverd to the high-voltage battery.
+The Charges tab displays a list of charges in the selected period along with the energy pulled from the chargers, the energy delivered to the high voltage battery, and the overall charging efficiency.
 
-You can select a charge from the list and see the details of the charge with information from:
+You can select a charge from the Charges list and see the details of the charge with information from:
 - location, duration, and charger type
 - power and energy data
-- high-volatge battery details including the State pf Charge (SoC) and State of Health (Soh)
+- high voltage battery details including the State pf Charge (SoC) and State of Health (SoH)
 
 ![Charges](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Charges.png)
 
-The Charging spotlight includes graphs of energy use and the battery SoH over different time periods.
+The Charging spotlight includes graphs of energy use and the battery SoH. Each detailed charge spotlight displays graphical insights for a particular charging session.
 
 <a id='settings'></a>
 ## Settings
-The Settings tab manages the selection of vehicles, data sources, and other useful features including:
+The Settings tab manages the selection of vehicles, data stores, and other useful features including:
 - save/restore settings
-- manage data sources
-- manage vehicles (you have multiple vehicles in a data source and switch bewteen them)
+- manage data stores
+- manage vehicles
 - manage location data
+- get help for various OBD Play features
+- get OBD Play version and other application information
 
 ![Settings](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png)
