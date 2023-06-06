@@ -27,7 +27,7 @@
 
 <a id='installation'></a>
 ## Installation
-The beta test releases as being distributed by the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can install **OBD Play** from the TestFlight app and share crash reports and screenshots to help improve the aoftware.
+The beta test releases are being distributed using the Apple TestFlight application.  If you receive an invitation or have accrss to a shared download link you can install **OBD Play** from the TestFlight app and share crash reports and screenshots to help improve the aoftware.
 
 <a id='privacy'></a>
 ## Privacy Notice
