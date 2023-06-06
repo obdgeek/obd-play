@@ -74,4 +74,4 @@ The Settings tab manages the selection of vehicles, data stores, and other usefu
 - get help for various OBD Play features
 - get OBD Play version and other application information
 
-![Settings](https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png)
+<img width="300" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png">
