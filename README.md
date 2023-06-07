@@ -16,9 +16,10 @@
 
 <a id='whats-new'></a>
 ## What's new
-- Build 0.71.9 adds trip and charge spotlights for viewing selected details of a trip or charge session.
-
-- Everything is new at this point, just explore and let us know of any problems or share your feedback.
+- adds trip spotlights for viewing preconditioning and temperatures
+- adds a charge spotlight for viewing charge session power and temperatures
+- charges now show battery age and the battery State of Health (SoH) graphs show both odometer and age for the x-axis
+- everything is new and in a state of flux, just explore and report any problems or share your feedback
 
 <a id='requirements'></a>
 ## Requirements
@@ -71,7 +72,7 @@ The Settings tab manages the selection of vehicles, data stores, and other usefu
 - manage data stores
 - manage vehicles
 - manage location data
-- get help for various **OBD Play** features
-- get **OBD Play** version and other application information
+- help for various **OBD Play** features
+- **OBD Play** version and other application information
 
 <img width="400" alt="image" src="https://raw.githubusercontent.com/sillygoose/obd-play/main/images/Settings.png">
